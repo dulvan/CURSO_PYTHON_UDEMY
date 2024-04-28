@@ -11,3 +11,5 @@ print(cadena[ : 20])
 print(cadena[20 : ])
 
 print(cadena[-3])
+
+# esto es un comentario
